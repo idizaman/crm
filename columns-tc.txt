@@ -1,0 +1,13 @@
+UserPhone
+a_msisdn
+b_msisdn
+comType
+duration
+yy
+mm
+dd
+district
+thana
+union
+address
+remarks
